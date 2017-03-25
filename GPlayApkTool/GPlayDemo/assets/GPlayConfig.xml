@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GPlayConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" unity_version="5.3.6p5" sdk_version="1.0.0" engine="unity">
+  <SettingConfig>
+    <scriptingBackend>0</scriptingBackend>
+  </SettingConfig>
+  <ResConfig>
+    <AssetItemList>
+      <AssetItem type="Resources" guid="13164ec7a39add24ea24a2602d46ffb7" path="Assets/GPlay/Example/Resources/ResourcesTexture.psd" />
+      <AssetItem type="Resources" guid="e084b0db49223a1428ae8786c7428af1" path="Assets/xxx/Resources/1_nadianhuashuohua_5dianhua 1.anim" />
+      <AssetItem type="Resources" guid="cd1f05da52417b74dacf67a98bc95742" path="Assets/xxx/Resources/Qiqi_CAT_NOani_0.FBX" />
+      <AssetItem type="Resources" guid="6d7b911addfa39a4f83dbd80a4ca3fd9" path="Assets/xxx/Resources/TelephoneController.controller" />
+      <AssetItem type="Reference" guid="59a5800f69f764272a193320f2b229b2" path="Assets/2D Platformer/Fonts/BradBunR.ttf" />
+      <AssetItem type="Reference" guid="035d3682f09bf4ddaa70a56d8d58c389" path="Assets/2D Platformer/Prefabs/Environment/backgroundAnimation.prefab" />
+      <AssetItem type="Reference" guid="bdd88e3de6e024ec1bacd58073808d06" path="Assets/2D Platformer/Prefabs/spawner.prefab" />
+      <AssetItem type="Reference" guid="8401a12a35e9d44efbd45e0bba1d4969" path="Assets/2D Platformer/Prefabs/killTrigger.prefab" />
+      <AssetItem type="Reference" guid="5b8d8461f4d094ae1911a6d9df6d9f68" path="Assets/2D Platformer/Prefabs/Props/explosionParticle.prefab" />
+      <AssetItem type="Reference" guid="317552566dd1ff9488d5d34e0c3ba4f4" path="Assets/2D Platformer/Audio/Music/MainTheme.wav" />
+      <AssetItem type="Reference" guid="f28cca3aa9289483b8160967b37ef4c5" path="Assets/2D Platformer/Sprites/_Props/prop_crate_ammo.png" />
+      <AssetItem type="Reference" guid="64b12b15baf9644af9f0651e6705f0ef" path="Assets/2D Platformer/Prefabs/mainCamera.prefab" />
+      <AssetItem type="Reference" guid="ed5592612cca943c4ab5a2773166e924" path="Assets/2D Platformer/Prefabs/Environment/backgrounds.prefab" />
+      <AssetItem type="Reference" guid="c170c54283ab44181a2cc55a8a77e839" path="Assets/2D Platformer/Prefabs/pickupManager.prefab" />
+      <AssetItem type="Reference" guid="6aa187bc6339843479c03fdfd71404a3" path="Assets/2D Platformer/Prefabs/Characters/hero.prefab" />
+      <AssetItem type="Reference" guid="af80fe7abb2604963b7e7b5a24685a6b" path="Assets/2D Platformer/Prefabs/UI/ui_healthDisplay.prefab" />
+      <AssetItem type="Reference" guid="708042f972a104a1793983dbefca755f" path="Assets/2D Platformer/Prefabs/Environment/Foregrounds.prefab" />
+      <AssetItem type="Reference" guid="d19f04179d6b4fa449f5fb944b20d341" path="Assets/xxx/Models/kiki/itk@1_nadianhuashuohua_5dianhua 1.FBX" />
+      <AssetItem type="Reference" guid="f9d0b7dac836a450f8040b62eb6ebd5f" path="Assets/2D Platformer/Prefabs/Environment/Bus.prefab" />
+      <AssetItem type="Reference" guid="e22b0975178e44f1881534434127b177" path="Assets/2D Platformer/Prefabs/Environment/Cab.prefab" />
+      <AssetItem type="Reference" guid="cccb6fdca5fce44bc94bacf40fa493e8" path="Assets/2D Platformer/Prefabs/Props/swan.prefab" />
+      <AssetItem type="Reference" guid="4c5736ea0764d49c3a6adc2250d33f0f" path="Assets/2D Platformer/Prefabs/Characters/enemy1.prefab" />
+      <AssetItem type="Reference" guid="66fe2da2077f94183ae003dde85a8b1a" path="Assets/2D Platformer/Prefabs/Characters/enemy2.prefab" />
+      <AssetItem type="Reference" guid="c1b09b1ca8ba05d4682ccf6db6b1102d" path="Assets/2D Platformer/Materials/part_star.mat" />
+      <AssetItem type="Reference" guid="3c2f4b0a1dcea4377b723eea567d654b" path="Assets/2D Platformer/Prefabs/FX/splash.prefab" />
+      <AssetItem type="Reference" guid="06ad956c870f140f0b71cc83080d8776" path="Assets/2D Platformer/Materials/ExplosionParticle.mat" />
+      <AssetItem type="Reference" guid="96d9ea824c84b46098841f1f27e05ce7" path="Assets/2D Platformer/Animation/Controllers/Clouds.controller" />
+      <AssetItem type="Reference" guid="15f196b4608bd4119b7bb179e7250bdd" path="Assets/2D Platformer/Animation/Controllers/Fog.controller" />
+      <AssetItem type="Reference" guid="11f73e44a184148afae3f59115a8dbb8" path="Assets/2D Platformer/Animation/Controllers/RiverMid.controller" />
+      <AssetItem type="Reference" guid="70458b70d21af4b948eaf362599da39c" path="Assets/2D Platformer/Animation/Controllers/RiverTop.controller" />
+      <AssetItem type="Reference" guid="8876f2e8f842138448a347f02ac163e2" path="Assets/2D Platformer/Sprites/_Environment/env_RiverMid.png" />
+      <AssetItem type="Reference" guid="03890ec4312fb8c4aad1bd2359352e15" path="Assets/2D Platformer/Sprites/_Environment/env_RiverTop.png" />
+      <AssetItem type="Reference" guid="324d9e980667446f19ed79b29f004f3b" path="Assets/2D Platformer/Sprites/_Environment/env_bg.png" />
+      <AssetItem type="Reference" guid="9813abdadeb6e4dd9a12140dadc778f1" path="Assets/2D Platformer/Sprites/_Environment/env_BigBen.png" />
+      <AssetItem type="Reference" guid="f0f4795699aef47bfb00f17982e8d17c" path="Assets/2D Platformer/Sprites/_Environment/env_Clouds.png" />
+      <AssetItem type="Reference" guid="781674f19e4c8469fbde5e48ac6a4289" path="Assets/2D Platformer/Sprites/_Environment/env_Bank.png" />
+      <AssetItem type="Reference" guid="6fa2966e3bd6b2a4ebfd4229052ab316" path="Assets/2D Platformer/Sprites/_Environment/env_RiverBase.png" />
+      <AssetItem type="Reference" guid="475c8c14bafa841fbaa49bf42afb311e" path="Assets/2D Platformer/Sprites/_Environment/env_Gherkin.png" />
+      <AssetItem type="Reference" guid="08f156bcb508a4c58bb09311fa0a1f62" path="Assets/2D Platformer/Sprites/_Environment/env_Fog.png" />
+      <AssetItem type="Reference" guid="f14f67cf21d1d440181dad13051efd97" path="Assets/2D Platformer/Prefabs/Props/bombCrate.prefab" />
+      <AssetItem type="Reference" guid="9124ba8225a274c91a8eb0e924019612" path="Assets/2D Platformer/Prefabs/Props/healthCrate.prefab" />
+      <AssetItem type="Reference" guid="24ac79603fb61400588e37d9f6fe952a" path="Assets/2D Platformer/Physics Materials/Player.physicsMaterial2D" />
+      <AssetItem type="Reference" guid="71c2c0e8ae6c44d459723bef91c9bbbf" path="Assets/2D Platformer/Audio/FX/bazooka.wav" />
+      <AssetItem type="Reference" guid="1ad1c509ffb314b2b933a73b401aae26" path="Assets/2D Platformer/Animation/Controllers/Character.controller" />
+      <AssetItem type="Reference" guid="8fde8ec1b330d4bbfb4839f4b41cadc0" path="Assets/2D Platformer/Prefabs/Props/rocket.prefab" />
+      <AssetItem type="Reference" guid="50a8d8a939a0f4e77a0dac6ecd2e582b" path="Assets/2D Platformer/Audio/Player/Jumps/Player-jump1.wav" />
+      <AssetItem type="Reference" guid="fc55d077383484ac0ad66aa17fcd746f" path="Assets/2D Platformer/Audio/Player/Jumps/Player-jump2.wav" />
+      <AssetItem type="Reference" guid="dafa1cc4eb8714341a7c595abfba35d8" path="Assets/2D Platformer/Audio/Player/Jumps/Player-jump3.wav" />
+      <AssetItem type="Reference" guid="27cbebf9d650249e5b032494eae5322c" path="Assets/2D Platformer/Audio/Player/Taunts/Player-BringItOn.wav" />
+      <AssetItem type="Reference" guid="986fa1b8984964da79d1be0597332fb2" path="Assets/2D Platformer/Audio/Player/Taunts/Player-IDefyYou.wav" />
+      <AssetItem type="Reference" guid="18cb2f6181960417299fa419548cade6" path="Assets/2D Platformer/Audio/Player/Taunts/Player-Isayoldbean.wav" />
+      <AssetItem type="Reference" guid="0c92f302b5186464187ab9b6adcd1282" path="Assets/2D Platformer/Audio/Player/Taunts/Player-KeepItClassy.wav" />
+      <AssetItem type="Reference" guid="57d899f9f78ef4493b0b79dbc9d55e40" path="Assets/2D Platformer/Audio/Player/Taunts/Player-LetsAveYou.wav" />
+      <AssetItem type="Reference" guid="0695e43dc27f94eecbf41013ef61b603" path="Assets/2D Platformer/Audio/Player/Taunts/Player-TakeThat.wav" />
+      <AssetItem type="Reference" guid="f00d6706bf8224fe39835855574f94c7" path="Assets/2D Platformer/Audio/Player/Taunts/Player-TallyHo.wav" />
+      <AssetItem type="Reference" guid="ddd0ca15e5d0a42b98f08337c1690bb1" path="Assets/2D Platformer/Audio/Player/Taunts/Player-ThatAllYouGot.wav" />
+      <AssetItem type="Reference" guid="16883b69910904c908f8738ee6d16a7f" path="Assets/2D Platformer/Audio/Player/Ouch/Player-ouch1.wav" />
+      <AssetItem type="Reference" guid="4825e9268b7c84159b1f2b9cb54850b1" path="Assets/2D Platformer/Audio/Player/Ouch/Player-ouch2.wav" />
+      <AssetItem type="Reference" guid="c6cea8437a02b40b78dfaf913b99be0d" path="Assets/2D Platformer/Audio/Player/Ouch/Player-ouch3.wav" />
+      <AssetItem type="Reference" guid="4baef03e1cc8f4ab69708f3aedbce21c" path="Assets/2D Platformer/Audio/Player/Ouch/Player-ouch4.wav" />
+      <AssetItem type="Reference" guid="2d487c0108565443ba2dea29b521e120" path="Assets/2D Platformer/Audio/Player/Taunts/Player-BombsAway.ogg" />
+      <AssetItem type="Reference" guid="9f1c955688b614b259cf703b0b1c73d2" path="Assets/2D Platformer/Prefabs/Props/bomb.prefab" />
+      <AssetItem type="Reference" guid="e7d3a1e0e2fac4bd48b6734c2daf4fe1" path="Assets/2D Platformer/Sprites/_Character/char_hero_beanMan.png" />
+      <AssetItem type="Reference" guid="999db0fbe1d84f749942ab46005b00a4" path="Assets/2D Platformer/Materials/DefaultPixelSnap.mat" />
+      <AssetItem type="Reference" guid="620784697ead14af1bfe772e15068bff" path="Assets/2D Platformer/Sprites/_UI/Health-bg.png" />
+      <AssetItem type="Reference" guid="c5f8979fcc4fe40929aa9e14b7f96d46" path="Assets/2D Platformer/Materials/Health.mat" />
+      <AssetItem type="Reference" guid="47a82cad23a3241318d426d0008ffb67" path="Assets/2D Platformer/Sprites/_UI/Health.png" />
+      <AssetItem type="Reference" guid="1debb068374764196a01e1c69c1f413f" path="Assets/2D Platformer/Physics Materials/PlatformEnd.physicsMaterial2D" />
+      <AssetItem type="Reference" guid="3d59a2915e1d2472caf9771deaedd5fc" path="Assets/2D Platformer/Sprites/_Environment/env_PlatformBridge.png" />
+      <AssetItem type="Reference" guid="836f6b8ffa7ae498eb9d6bac993daeb1" path="Assets/2D Platformer/Sprites/_Environment/env_UfoLegs.png" />
+      <AssetItem type="Reference" guid="fb32ede6a3015fe4eb0e19d81e5e0f00" path="Assets/2D Platformer/Sprites/_Environment/env_TowerFull.png" />
+      <AssetItem type="Reference" guid="fefd3ef4575bf460897e37cb36fdb945" path="Assets/2D Platformer/Sprites/_Environment/env_PlatformTop.png" />
+      <AssetItem type="Reference" guid="60e2597ee773d9840ba7cd2f3cba7896" path="Assets/2D Platformer/Sprites/_Environment/env_cloudTop.png" />
+      <AssetItem type="Reference" guid="f8540bea7b77f4952adc2b7974912096" path="Assets/2D Platformer/Sprites/_Environment/env_PlatformUfo.png" />
+      <AssetItem type="Reference" guid="fd17c4b6d955b4a639e46d159edcbd59" path="Assets/2D Platformer/Animation/Controllers/bus.controller" />
+      <AssetItem type="Reference" guid="f66e58b49cbb63741a688917eebb1b1d" path="Assets/2D Platformer/Sprites/_Props/Bus.png" />
+      <AssetItem type="Reference" guid="de11536e9445a440d81f1efb79e45103" path="Assets/2D Platformer/Animation/Controllers/cab.controller" />
+      <AssetItem type="Reference" guid="ca1fe571da9f00d48b0b756eccdfa686" path="Assets/2D Platformer/Sprites/_Props/Cab.png" />
+      <AssetItem type="Reference" guid="dbcb496373d5f4cb1899470d0986049c" path="Assets/2D Platformer/Animation/Controllers/swanFly.controller" />
+      <AssetItem type="Reference" guid="e50f4af9499e24ac9b08e30acc337ee9" path="Assets/2D Platformer/Sprites/_Props/swan_Sheet.png" />
+      <AssetItem type="Reference" guid="23a611264a484432f883048aac959e94" path="Assets/2D Platformer/Animation/Controllers/Enemy1.controller" />
+      <AssetItem type="Reference" guid="bd1989b4e42a0454097f657dfb368bd8" path="Assets/2D Platformer/Sprites/_Character/char_enemy_alienSlug-dead.png" />
+      <AssetItem type="Reference" guid="039514349165244c6a43be5c3070d14b" path="Assets/2D Platformer/Audio/Enemy/enemy-death1.wav" />
+      <AssetItem type="Reference" guid="85020549641fa452d9136ac2fc852efd" path="Assets/2D Platformer/Audio/Enemy/enemy-death2.wav" />
+      <AssetItem type="Reference" guid="2e20b5071623f44cf9c72acf016de4b6" path="Assets/2D Platformer/Audio/Enemy/enemy-death3.wav" />
+      <AssetItem type="Reference" guid="31974361bc9e44fb18c77b64a4cb3bbd" path="Assets/2D Platformer/Prefabs/UI/ui_100points.prefab" />
+      <AssetItem type="Reference" guid="361e1e5d552ad444fb688b5203c01caa" path="Assets/2D Platformer/Sprites/_Character/char_enemy_alienSlug.png" />
+      <AssetItem type="Reference" guid="2e2858a2181ae42d99d0cd87dbea80b6" path="Assets/2D Platformer/Animation/Controllers/Enemy2.controller" />
+      <AssetItem type="Reference" guid="73fa5f80d4ddd4196b767cc01c1b5c68" path="Assets/2D Platformer/Sprites/_Character/char_enemy_alienShip-dead.png" />
+      <AssetItem type="Reference" guid="bc16422a503ec43cab4ad9ddab02ff7a" path="Assets/2D Platformer/Sprites/_Character/char_enemy_alienShip-damaged.png" />
+      <AssetItem type="Reference" guid="3757687d37f7d4c5e895fe56f03cbc84" path="Assets/2D Platformer/Sprites/_Character/char_enemy_alienShip.png" />
+      <AssetItem type="Reference" guid="e11a46337d7c55c42b0a2df4ae4ce720" path="Assets/2D Platformer/Sprites/_FX/part_star.png" />
+      <AssetItem type="Reference" guid="6955d13bf32414cc2810dca8756e1822" path="Assets/2D Platformer/Audio/FX/waterSplash.ogg" />
+      <AssetItem type="Reference" guid="b885779797d314b139d46e61cb01dda1" path="Assets/2D Platformer/Animation/Controllers/riverSplash.controller" />
+      <AssetItem type="Reference" guid="e5e275498558a2542bb0465fa5e30d9b" path="Assets/2D Platformer/Sprites/_FX/splash.png" />
+      <AssetItem type="Reference" guid="ec8e34c97ef2ee34395623fb7e4b0054" path="Assets/2D Platformer/Sprites/_FX/part_explosion.png" />
+      <AssetItem type="Reference" guid="3ae97e047e2e24a52ad27b209e246997" path="Assets/2D Platformer/Animation/Clips/Clouds.anim" />
+      <AssetItem type="Reference" guid="e075d96495a6241d6b57184b938b01ae" path="Assets/2D Platformer/Animation/Clips/Fog.anim" />
+      <AssetItem type="Reference" guid="be176cedc224641e68796ff57f1a6bff" path="Assets/2D Platformer/Animation/Clips/RiverMid.anim" />
+      <AssetItem type="Reference" guid="55a216a9340e44e71b856e389102c31e" path="Assets/2D Platformer/Animation/Clips/RiverTop.anim" />
+      <AssetItem type="Reference" guid="07d40edf1e880482c844954892ef8780" path="Assets/2D Platformer/Animation/Controllers/ammo_pickup.controller" />
+      <AssetItem type="Reference" guid="8b4e61c51941a46d1aac273472c814fd" path="Assets/2D Platformer/Audio/FX/bigBoom.ogg" />
+      <AssetItem type="Reference" guid="9c8b546f746e74328ab6b8bba733af67" path="Assets/2D Platformer/Prefabs/Props/explosionCircle.prefab" />
+      <AssetItem type="Reference" guid="f27a84c9104434a008b15db8e2a8535b" path="Assets/2D Platformer/Sprites/_Props/prop_parachute.png" />
+      <AssetItem type="Reference" guid="9efb4922b09e32642bab2240a7c0aad5" path="Assets/2D Platformer/Animation/Controllers/health_pickup.controller" />
+      <AssetItem type="Reference" guid="fdcf63a3454d74ea5bdd46db131f3078" path="Assets/2D Platformer/Audio/FX/healthPickup.ogg" />
+      <AssetItem type="Reference" guid="b126006da8178403dad4a53e28cb67f1" path="Assets/2D Platformer/Sprites/_Props/prop_crate_health.png" />
+      <AssetItem type="Reference" guid="681a8afaadec3408687faa1ac36c335a" path="Assets/2D Platformer/Animation/Clips/Idle.anim" />
+      <AssetItem type="Reference" guid="dc1d4e75a3a73480e9803a2412d8df9a" path="Assets/2D Platformer/Animation/Clips/Shoot.anim" />
+      <AssetItem type="Reference" guid="0fd2e011dd6a54ee58e4bd689665d781" path="Assets/2D Platformer/Animation/Clips/Death.anim" />
+      <AssetItem type="Reference" guid="54a6ce788f2e04938a8954f0c56f4ea7" path="Assets/2D Platformer/Animation/Clips/Jump.anim" />
+      <AssetItem type="Reference" guid="44bd4321dc3584aacb8ad94265dd52cb" path="Assets/2D Platformer/Animation/Clips/Falling.anim" />
+      <AssetItem type="Reference" guid="bcf8af941d1fd418faab528548cf8940" path="Assets/2D Platformer/Animation/Clips/Run.anim" />
+      <AssetItem type="Reference" guid="5fc7d4d480b4647fabe87d2d7aa3d8ed" path="Assets/2D Platformer/Animation/Controllers/Flame.controller" />
+      <AssetItem type="Reference" guid="42404bf7d14c342f69690c9961a7530d" path="Assets/2D Platformer/Prefabs/Props/rocketExplosion.prefab" />
+      <AssetItem type="Reference" guid="461254dd80155e84faacd6da6311f071" path="Assets/2D Platformer/Materials/Smoke.mat" />
+      <AssetItem type="Reference" guid="bbbe340798352459386a0059f0d14360" path="Assets/2D Platformer/Sprites/_Props/part_rocket.png" />
+      <AssetItem type="Reference" guid="505e7d9cb9fd14a45bdd00f6282fa528" path="Assets/2D Platformer/Sprites/_Props/part_flame.png" />
+      <AssetItem type="Reference" guid="c2fc7b356ebe242deaefac9ceb95a7e1" path="Assets/2D Platformer/Sprites/_Props/prop_bomb.png" />
+      <AssetItem type="Reference" guid="8d9f912a875a243d1b1bf3ccba362f81" path="Assets/2D Platformer/Animation/Clips/Bus.anim" />
+      <AssetItem type="Reference" guid="da3a16ad7cb9b4c9db043669a8325166" path="Assets/2D Platformer/Animation/Clips/cabDrive.anim" />
+      <AssetItem type="Reference" guid="dd8ac01d2a75743e4917f3b94089a47f" path="Assets/2D Platformer/Animation/Clips/swanFly.anim" />
+      <AssetItem type="Reference" guid="1c1a0c404c30d41359300f3a64ef0803" path="Assets/2D Platformer/Animation/Clips/enemyWalk.anim" />
+      <AssetItem type="Reference" guid="3d77ab9630bb6462aace56d0510c7173" path="Assets/2D Platformer/Animation/Controllers/UI-100points.controller" />
+      <AssetItem type="Reference" guid="b60c382fc506348a48402c25ba4fdacb" path="Assets/2D Platformer/Sprites/_UI/numeric-0.png" />
+      <AssetItem type="Reference" guid="ef8ca0b19df694e2988c6019261d340e" path="Assets/2D Platformer/Sprites/_UI/numeric-1.png" />
+      <AssetItem type="Reference" guid="27c2d3dfaa8c1467d9f11cad99393e62" path="Assets/2D Platformer/Animation/Clips/enemy2wobble.anim" />
+      <AssetItem type="Reference" guid="1d21a36e63df14ea88e84f2e8112fe5e" path="Assets/2D Platformer/Animation/Clips/riverSplash.anim" />
+      <AssetItem type="Reference" guid="7e53ccac3f5284242b5cb9f49696e1d1" path="Assets/2D Platformer/Animation/Clips/floatDown_ammo.anim" />
+      <AssetItem type="Reference" guid="376d9eadc25804c32a9162454f4f508c" path="Assets/2D Platformer/Animation/Clips/BombLanding.anim" />
+      <AssetItem type="Reference" guid="f04f84c2241634cd6b3b30db8ac10ce4" path="Assets/2D Platformer/Materials/Explosion.mat" />
+      <AssetItem type="Reference" guid="c0d7bb19e6d7b400483d85741b495289" path="Assets/2D Platformer/Sprites/_FX/Circle.png" />
+      <AssetItem type="Reference" guid="bd73b2f96a5824d41bb19592193e2398" path="Assets/2D Platformer/Animation/Clips/floatDown_health.anim" />
+      <AssetItem type="Reference" guid="c67b86ee9b4ae4810af65db1a98e4c14" path="Assets/2D Platformer/Animation/Clips/flames.anim" />
+      <AssetItem type="Reference" guid="17e2e18f58d484292afebd263b8a9f67" path="Assets/2D Platformer/Audio/FX/rocketExplode.wav" />
+      <AssetItem type="Reference" guid="e354c2e8eb72d4a85b1e1755d551190d" path="Assets/2D Platformer/Animation/Controllers/RocketExplosion.controller" />
+      <AssetItem type="Reference" guid="1b62624cd7eb6407694c536cbeddfbc9" path="Assets/2D Platformer/Materials/HalfAlpha.mat" />
+      <AssetItem type="Reference" guid="8ef95d64ca207f449917f64972ea5669" path="Assets/2D Platformer/Sprites/_FX/part_smokepuffs.png" />
+      <AssetItem type="Reference" guid="6bb54eda499b94a83ad9b125f844f6a4" path="Assets/2D Platformer/Animation/Clips/100points.anim" />
+      <AssetItem type="Reference" guid="ae5ede82ebdd547ac8e7eb6fef4b626b" path="Assets/2D Platformer/Animation/Clips/RocketExplode.anim" />
+    </AssetItemList>
+    <SceneResourceConfigList>
+      <SceneResCfg scene_id="0" scene_name="Assets/GPlay/Example/scenes/GPlayDemo_Level0.unity">
+        <ReferencedResGUIDList />
+      </SceneResCfg>
+      <SceneResCfg scene_id="1" scene_name="Assets/2D Platformer/Scenes/Level.unity">
+        <ReferencedResGUIDList>
+          <string>59a5800f69f764272a193320f2b229b2</string>
+          <string>035d3682f09bf4ddaa70a56d8d58c389</string>
+          <string>bdd88e3de6e024ec1bacd58073808d06</string>
+          <string>8401a12a35e9d44efbd45e0bba1d4969</string>
+          <string>5b8d8461f4d094ae1911a6d9df6d9f68</string>
+          <string>317552566dd1ff9488d5d34e0c3ba4f4</string>
+          <string>f28cca3aa9289483b8160967b37ef4c5</string>
+          <string>64b12b15baf9644af9f0651e6705f0ef</string>
+          <string>ed5592612cca943c4ab5a2773166e924</string>
+          <string>c170c54283ab44181a2cc55a8a77e839</string>
+          <string>6aa187bc6339843479c03fdfd71404a3</string>
+          <string>af80fe7abb2604963b7e7b5a24685a6b</string>
+          <string>708042f972a104a1793983dbefca755f</string>
+        </ReferencedResGUIDList>
+      </SceneResCfg>
+    </SceneResourceConfigList>
+    <AssetReferenceInfoList>
+      <AssetReferenceInfo>
+        <guid>13164ec7a39add24ea24a2602d46ffb7</guid>
+        <References>
+          <string>13164ec7a39add24ea24a2602d46ffb7</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>e084b0db49223a1428ae8786c7428af1</guid>
+        <References>
+          <string>e084b0db49223a1428ae8786c7428af1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>cd1f05da52417b74dacf67a98bc95742</guid>
+        <References>
+          <string>cd1f05da52417b74dacf67a98bc95742</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>6d7b911addfa39a4f83dbd80a4ca3fd9</guid>
+        <References>
+          <string>e084b0db49223a1428ae8786c7428af1</string>
+          <string>d19f04179d6b4fa449f5fb944b20d341</string>
+          <string>6d7b911addfa39a4f83dbd80a4ca3fd9</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>59a5800f69f764272a193320f2b229b2</guid>
+        <References>
+          <string>59a5800f69f764272a193320f2b229b2</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>035d3682f09bf4ddaa70a56d8d58c389</guid>
+        <References>
+          <string>f9d0b7dac836a450f8040b62eb6ebd5f</string>
+          <string>e22b0975178e44f1881534434127b177</string>
+          <string>cccb6fdca5fce44bc94bacf40fa493e8</string>
+          <string>035d3682f09bf4ddaa70a56d8d58c389</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>bdd88e3de6e024ec1bacd58073808d06</guid>
+        <References>
+          <string>4c5736ea0764d49c3a6adc2250d33f0f</string>
+          <string>66fe2da2077f94183ae003dde85a8b1a</string>
+          <string>c1b09b1ca8ba05d4682ccf6db6b1102d</string>
+          <string>bdd88e3de6e024ec1bacd58073808d06</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>8401a12a35e9d44efbd45e0bba1d4969</guid>
+        <References>
+          <string>3c2f4b0a1dcea4377b723eea567d654b</string>
+          <string>8401a12a35e9d44efbd45e0bba1d4969</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>5b8d8461f4d094ae1911a6d9df6d9f68</guid>
+        <References>
+          <string>06ad956c870f140f0b71cc83080d8776</string>
+          <string>5b8d8461f4d094ae1911a6d9df6d9f68</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>317552566dd1ff9488d5d34e0c3ba4f4</guid>
+        <References>
+          <string>317552566dd1ff9488d5d34e0c3ba4f4</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f28cca3aa9289483b8160967b37ef4c5</guid>
+        <References>
+          <string>f28cca3aa9289483b8160967b37ef4c5</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>64b12b15baf9644af9f0651e6705f0ef</guid>
+        <References>
+          <string>64b12b15baf9644af9f0651e6705f0ef</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>ed5592612cca943c4ab5a2773166e924</guid>
+        <References>
+          <string>96d9ea824c84b46098841f1f27e05ce7</string>
+          <string>15f196b4608bd4119b7bb179e7250bdd</string>
+          <string>11f73e44a184148afae3f59115a8dbb8</string>
+          <string>70458b70d21af4b948eaf362599da39c</string>
+          <string>8876f2e8f842138448a347f02ac163e2</string>
+          <string>03890ec4312fb8c4aad1bd2359352e15</string>
+          <string>324d9e980667446f19ed79b29f004f3b</string>
+          <string>9813abdadeb6e4dd9a12140dadc778f1</string>
+          <string>f0f4795699aef47bfb00f17982e8d17c</string>
+          <string>781674f19e4c8469fbde5e48ac6a4289</string>
+          <string>6fa2966e3bd6b2a4ebfd4229052ab316</string>
+          <string>475c8c14bafa841fbaa49bf42afb311e</string>
+          <string>08f156bcb508a4c58bb09311fa0a1f62</string>
+          <string>ed5592612cca943c4ab5a2773166e924</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>c170c54283ab44181a2cc55a8a77e839</guid>
+        <References>
+          <string>f14f67cf21d1d440181dad13051efd97</string>
+          <string>9124ba8225a274c91a8eb0e924019612</string>
+          <string>c170c54283ab44181a2cc55a8a77e839</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>6aa187bc6339843479c03fdfd71404a3</guid>
+        <References>
+          <string>24ac79603fb61400588e37d9f6fe952a</string>
+          <string>71c2c0e8ae6c44d459723bef91c9bbbf</string>
+          <string>1ad1c509ffb314b2b933a73b401aae26</string>
+          <string>8fde8ec1b330d4bbfb4839f4b41cadc0</string>
+          <string>50a8d8a939a0f4e77a0dac6ecd2e582b</string>
+          <string>fc55d077383484ac0ad66aa17fcd746f</string>
+          <string>dafa1cc4eb8714341a7c595abfba35d8</string>
+          <string>27cbebf9d650249e5b032494eae5322c</string>
+          <string>986fa1b8984964da79d1be0597332fb2</string>
+          <string>18cb2f6181960417299fa419548cade6</string>
+          <string>0c92f302b5186464187ab9b6adcd1282</string>
+          <string>57d899f9f78ef4493b0b79dbc9d55e40</string>
+          <string>0695e43dc27f94eecbf41013ef61b603</string>
+          <string>f00d6706bf8224fe39835855574f94c7</string>
+          <string>ddd0ca15e5d0a42b98f08337c1690bb1</string>
+          <string>16883b69910904c908f8738ee6d16a7f</string>
+          <string>4825e9268b7c84159b1f2b9cb54850b1</string>
+          <string>c6cea8437a02b40b78dfaf913b99be0d</string>
+          <string>4baef03e1cc8f4ab69708f3aedbce21c</string>
+          <string>2d487c0108565443ba2dea29b521e120</string>
+          <string>9f1c955688b614b259cf703b0b1c73d2</string>
+          <string>e7d3a1e0e2fac4bd48b6734c2daf4fe1</string>
+          <string>6aa187bc6339843479c03fdfd71404a3</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>af80fe7abb2604963b7e7b5a24685a6b</guid>
+        <References>
+          <string>999db0fbe1d84f749942ab46005b00a4</string>
+          <string>620784697ead14af1bfe772e15068bff</string>
+          <string>c5f8979fcc4fe40929aa9e14b7f96d46</string>
+          <string>47a82cad23a3241318d426d0008ffb67</string>
+          <string>af80fe7abb2604963b7e7b5a24685a6b</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>708042f972a104a1793983dbefca755f</guid>
+        <References>
+          <string>1debb068374764196a01e1c69c1f413f</string>
+          <string>3d59a2915e1d2472caf9771deaedd5fc</string>
+          <string>836f6b8ffa7ae498eb9d6bac993daeb1</string>
+          <string>fb32ede6a3015fe4eb0e19d81e5e0f00</string>
+          <string>fefd3ef4575bf460897e37cb36fdb945</string>
+          <string>60e2597ee773d9840ba7cd2f3cba7896</string>
+          <string>f8540bea7b77f4952adc2b7974912096</string>
+          <string>708042f972a104a1793983dbefca755f</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>d19f04179d6b4fa449f5fb944b20d341</guid>
+        <References>
+          <string>d19f04179d6b4fa449f5fb944b20d341</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f9d0b7dac836a450f8040b62eb6ebd5f</guid>
+        <References>
+          <string>fd17c4b6d955b4a639e46d159edcbd59</string>
+          <string>f66e58b49cbb63741a688917eebb1b1d</string>
+          <string>f9d0b7dac836a450f8040b62eb6ebd5f</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>e22b0975178e44f1881534434127b177</guid>
+        <References>
+          <string>de11536e9445a440d81f1efb79e45103</string>
+          <string>ca1fe571da9f00d48b0b756eccdfa686</string>
+          <string>e22b0975178e44f1881534434127b177</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>cccb6fdca5fce44bc94bacf40fa493e8</guid>
+        <References>
+          <string>dbcb496373d5f4cb1899470d0986049c</string>
+          <string>e50f4af9499e24ac9b08e30acc337ee9</string>
+          <string>cccb6fdca5fce44bc94bacf40fa493e8</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>4c5736ea0764d49c3a6adc2250d33f0f</guid>
+        <References>
+          <string>23a611264a484432f883048aac959e94</string>
+          <string>bd1989b4e42a0454097f657dfb368bd8</string>
+          <string>039514349165244c6a43be5c3070d14b</string>
+          <string>85020549641fa452d9136ac2fc852efd</string>
+          <string>2e20b5071623f44cf9c72acf016de4b6</string>
+          <string>31974361bc9e44fb18c77b64a4cb3bbd</string>
+          <string>361e1e5d552ad444fb688b5203c01caa</string>
+          <string>4c5736ea0764d49c3a6adc2250d33f0f</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>66fe2da2077f94183ae003dde85a8b1a</guid>
+        <References>
+          <string>2e2858a2181ae42d99d0cd87dbea80b6</string>
+          <string>73fa5f80d4ddd4196b767cc01c1b5c68</string>
+          <string>bc16422a503ec43cab4ad9ddab02ff7a</string>
+          <string>039514349165244c6a43be5c3070d14b</string>
+          <string>85020549641fa452d9136ac2fc852efd</string>
+          <string>2e20b5071623f44cf9c72acf016de4b6</string>
+          <string>31974361bc9e44fb18c77b64a4cb3bbd</string>
+          <string>3757687d37f7d4c5e895fe56f03cbc84</string>
+          <string>66fe2da2077f94183ae003dde85a8b1a</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>c1b09b1ca8ba05d4682ccf6db6b1102d</guid>
+        <References>
+          <string>e11a46337d7c55c42b0a2df4ae4ce720</string>
+          <string>c1b09b1ca8ba05d4682ccf6db6b1102d</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>3c2f4b0a1dcea4377b723eea567d654b</guid>
+        <References>
+          <string>6955d13bf32414cc2810dca8756e1822</string>
+          <string>b885779797d314b139d46e61cb01dda1</string>
+          <string>e5e275498558a2542bb0465fa5e30d9b</string>
+          <string>3c2f4b0a1dcea4377b723eea567d654b</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>06ad956c870f140f0b71cc83080d8776</guid>
+        <References>
+          <string>ec8e34c97ef2ee34395623fb7e4b0054</string>
+          <string>06ad956c870f140f0b71cc83080d8776</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>96d9ea824c84b46098841f1f27e05ce7</guid>
+        <References>
+          <string>3ae97e047e2e24a52ad27b209e246997</string>
+          <string>96d9ea824c84b46098841f1f27e05ce7</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>15f196b4608bd4119b7bb179e7250bdd</guid>
+        <References>
+          <string>e075d96495a6241d6b57184b938b01ae</string>
+          <string>15f196b4608bd4119b7bb179e7250bdd</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>11f73e44a184148afae3f59115a8dbb8</guid>
+        <References>
+          <string>be176cedc224641e68796ff57f1a6bff</string>
+          <string>11f73e44a184148afae3f59115a8dbb8</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>70458b70d21af4b948eaf362599da39c</guid>
+        <References>
+          <string>55a216a9340e44e71b856e389102c31e</string>
+          <string>70458b70d21af4b948eaf362599da39c</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>8876f2e8f842138448a347f02ac163e2</guid>
+        <References>
+          <string>8876f2e8f842138448a347f02ac163e2</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>03890ec4312fb8c4aad1bd2359352e15</guid>
+        <References>
+          <string>03890ec4312fb8c4aad1bd2359352e15</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>324d9e980667446f19ed79b29f004f3b</guid>
+        <References>
+          <string>324d9e980667446f19ed79b29f004f3b</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>9813abdadeb6e4dd9a12140dadc778f1</guid>
+        <References>
+          <string>9813abdadeb6e4dd9a12140dadc778f1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f0f4795699aef47bfb00f17982e8d17c</guid>
+        <References>
+          <string>f0f4795699aef47bfb00f17982e8d17c</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>781674f19e4c8469fbde5e48ac6a4289</guid>
+        <References>
+          <string>781674f19e4c8469fbde5e48ac6a4289</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>6fa2966e3bd6b2a4ebfd4229052ab316</guid>
+        <References>
+          <string>6fa2966e3bd6b2a4ebfd4229052ab316</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>475c8c14bafa841fbaa49bf42afb311e</guid>
+        <References>
+          <string>475c8c14bafa841fbaa49bf42afb311e</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>08f156bcb508a4c58bb09311fa0a1f62</guid>
+        <References>
+          <string>08f156bcb508a4c58bb09311fa0a1f62</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f14f67cf21d1d440181dad13051efd97</guid>
+        <References>
+          <string>07d40edf1e880482c844954892ef8780</string>
+          <string>986fa1b8984964da79d1be0597332fb2</string>
+          <string>8b4e61c51941a46d1aac273472c814fd</string>
+          <string>9c8b546f746e74328ab6b8bba733af67</string>
+          <string>f27a84c9104434a008b15db8e2a8535b</string>
+          <string>f28cca3aa9289483b8160967b37ef4c5</string>
+          <string>f14f67cf21d1d440181dad13051efd97</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>9124ba8225a274c91a8eb0e924019612</guid>
+        <References>
+          <string>9efb4922b09e32642bab2240a7c0aad5</string>
+          <string>fdcf63a3454d74ea5bdd46db131f3078</string>
+          <string>b126006da8178403dad4a53e28cb67f1</string>
+          <string>f27a84c9104434a008b15db8e2a8535b</string>
+          <string>9124ba8225a274c91a8eb0e924019612</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>24ac79603fb61400588e37d9f6fe952a</guid>
+        <References>
+          <string>24ac79603fb61400588e37d9f6fe952a</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>71c2c0e8ae6c44d459723bef91c9bbbf</guid>
+        <References>
+          <string>71c2c0e8ae6c44d459723bef91c9bbbf</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>1ad1c509ffb314b2b933a73b401aae26</guid>
+        <References>
+          <string>681a8afaadec3408687faa1ac36c335a</string>
+          <string>dc1d4e75a3a73480e9803a2412d8df9a</string>
+          <string>0fd2e011dd6a54ee58e4bd689665d781</string>
+          <string>54a6ce788f2e04938a8954f0c56f4ea7</string>
+          <string>44bd4321dc3584aacb8ad94265dd52cb</string>
+          <string>bcf8af941d1fd418faab528548cf8940</string>
+          <string>1ad1c509ffb314b2b933a73b401aae26</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>8fde8ec1b330d4bbfb4839f4b41cadc0</guid>
+        <References>
+          <string>5fc7d4d480b4647fabe87d2d7aa3d8ed</string>
+          <string>42404bf7d14c342f69690c9961a7530d</string>
+          <string>461254dd80155e84faacd6da6311f071</string>
+          <string>bbbe340798352459386a0059f0d14360</string>
+          <string>505e7d9cb9fd14a45bdd00f6282fa528</string>
+          <string>8fde8ec1b330d4bbfb4839f4b41cadc0</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>50a8d8a939a0f4e77a0dac6ecd2e582b</guid>
+        <References>
+          <string>50a8d8a939a0f4e77a0dac6ecd2e582b</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>fc55d077383484ac0ad66aa17fcd746f</guid>
+        <References>
+          <string>fc55d077383484ac0ad66aa17fcd746f</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>dafa1cc4eb8714341a7c595abfba35d8</guid>
+        <References>
+          <string>dafa1cc4eb8714341a7c595abfba35d8</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>27cbebf9d650249e5b032494eae5322c</guid>
+        <References>
+          <string>27cbebf9d650249e5b032494eae5322c</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>986fa1b8984964da79d1be0597332fb2</guid>
+        <References>
+          <string>986fa1b8984964da79d1be0597332fb2</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>18cb2f6181960417299fa419548cade6</guid>
+        <References>
+          <string>18cb2f6181960417299fa419548cade6</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>0c92f302b5186464187ab9b6adcd1282</guid>
+        <References>
+          <string>0c92f302b5186464187ab9b6adcd1282</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>57d899f9f78ef4493b0b79dbc9d55e40</guid>
+        <References>
+          <string>57d899f9f78ef4493b0b79dbc9d55e40</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>0695e43dc27f94eecbf41013ef61b603</guid>
+        <References>
+          <string>0695e43dc27f94eecbf41013ef61b603</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f00d6706bf8224fe39835855574f94c7</guid>
+        <References>
+          <string>f00d6706bf8224fe39835855574f94c7</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>ddd0ca15e5d0a42b98f08337c1690bb1</guid>
+        <References>
+          <string>ddd0ca15e5d0a42b98f08337c1690bb1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>16883b69910904c908f8738ee6d16a7f</guid>
+        <References>
+          <string>16883b69910904c908f8738ee6d16a7f</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>4825e9268b7c84159b1f2b9cb54850b1</guid>
+        <References>
+          <string>4825e9268b7c84159b1f2b9cb54850b1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>c6cea8437a02b40b78dfaf913b99be0d</guid>
+        <References>
+          <string>c6cea8437a02b40b78dfaf913b99be0d</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>4baef03e1cc8f4ab69708f3aedbce21c</guid>
+        <References>
+          <string>4baef03e1cc8f4ab69708f3aedbce21c</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>2d487c0108565443ba2dea29b521e120</guid>
+        <References>
+          <string>2d487c0108565443ba2dea29b521e120</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>9f1c955688b614b259cf703b0b1c73d2</guid>
+        <References>
+          <string>8b4e61c51941a46d1aac273472c814fd</string>
+          <string>9c8b546f746e74328ab6b8bba733af67</string>
+          <string>06ad956c870f140f0b71cc83080d8776</string>
+          <string>c2fc7b356ebe242deaefac9ceb95a7e1</string>
+          <string>9f1c955688b614b259cf703b0b1c73d2</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>e7d3a1e0e2fac4bd48b6734c2daf4fe1</guid>
+        <References>
+          <string>e7d3a1e0e2fac4bd48b6734c2daf4fe1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>999db0fbe1d84f749942ab46005b00a4</guid>
+        <References>
+          <string>999db0fbe1d84f749942ab46005b00a4</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>620784697ead14af1bfe772e15068bff</guid>
+        <References>
+          <string>620784697ead14af1bfe772e15068bff</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>c5f8979fcc4fe40929aa9e14b7f96d46</guid>
+        <References>
+          <string>c5f8979fcc4fe40929aa9e14b7f96d46</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>47a82cad23a3241318d426d0008ffb67</guid>
+        <References>
+          <string>47a82cad23a3241318d426d0008ffb67</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>1debb068374764196a01e1c69c1f413f</guid>
+        <References>
+          <string>1debb068374764196a01e1c69c1f413f</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>3d59a2915e1d2472caf9771deaedd5fc</guid>
+        <References>
+          <string>3d59a2915e1d2472caf9771deaedd5fc</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>836f6b8ffa7ae498eb9d6bac993daeb1</guid>
+        <References>
+          <string>836f6b8ffa7ae498eb9d6bac993daeb1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>fb32ede6a3015fe4eb0e19d81e5e0f00</guid>
+        <References>
+          <string>fb32ede6a3015fe4eb0e19d81e5e0f00</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>fefd3ef4575bf460897e37cb36fdb945</guid>
+        <References>
+          <string>fefd3ef4575bf460897e37cb36fdb945</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>60e2597ee773d9840ba7cd2f3cba7896</guid>
+        <References>
+          <string>60e2597ee773d9840ba7cd2f3cba7896</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f8540bea7b77f4952adc2b7974912096</guid>
+        <References>
+          <string>f8540bea7b77f4952adc2b7974912096</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>fd17c4b6d955b4a639e46d159edcbd59</guid>
+        <References>
+          <string>8d9f912a875a243d1b1bf3ccba362f81</string>
+          <string>fd17c4b6d955b4a639e46d159edcbd59</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f66e58b49cbb63741a688917eebb1b1d</guid>
+        <References>
+          <string>f66e58b49cbb63741a688917eebb1b1d</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>de11536e9445a440d81f1efb79e45103</guid>
+        <References>
+          <string>da3a16ad7cb9b4c9db043669a8325166</string>
+          <string>de11536e9445a440d81f1efb79e45103</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>ca1fe571da9f00d48b0b756eccdfa686</guid>
+        <References>
+          <string>ca1fe571da9f00d48b0b756eccdfa686</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>dbcb496373d5f4cb1899470d0986049c</guid>
+        <References>
+          <string>dd8ac01d2a75743e4917f3b94089a47f</string>
+          <string>dbcb496373d5f4cb1899470d0986049c</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>e50f4af9499e24ac9b08e30acc337ee9</guid>
+        <References>
+          <string>e50f4af9499e24ac9b08e30acc337ee9</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>23a611264a484432f883048aac959e94</guid>
+        <References>
+          <string>1c1a0c404c30d41359300f3a64ef0803</string>
+          <string>23a611264a484432f883048aac959e94</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>bd1989b4e42a0454097f657dfb368bd8</guid>
+        <References>
+          <string>bd1989b4e42a0454097f657dfb368bd8</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>039514349165244c6a43be5c3070d14b</guid>
+        <References>
+          <string>039514349165244c6a43be5c3070d14b</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>85020549641fa452d9136ac2fc852efd</guid>
+        <References>
+          <string>85020549641fa452d9136ac2fc852efd</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>2e20b5071623f44cf9c72acf016de4b6</guid>
+        <References>
+          <string>2e20b5071623f44cf9c72acf016de4b6</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>31974361bc9e44fb18c77b64a4cb3bbd</guid>
+        <References>
+          <string>3d77ab9630bb6462aace56d0510c7173</string>
+          <string>b60c382fc506348a48402c25ba4fdacb</string>
+          <string>ef8ca0b19df694e2988c6019261d340e</string>
+          <string>31974361bc9e44fb18c77b64a4cb3bbd</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>361e1e5d552ad444fb688b5203c01caa</guid>
+        <References>
+          <string>361e1e5d552ad444fb688b5203c01caa</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>2e2858a2181ae42d99d0cd87dbea80b6</guid>
+        <References>
+          <string>27c2d3dfaa8c1467d9f11cad99393e62</string>
+          <string>2e2858a2181ae42d99d0cd87dbea80b6</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>73fa5f80d4ddd4196b767cc01c1b5c68</guid>
+        <References>
+          <string>73fa5f80d4ddd4196b767cc01c1b5c68</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>bc16422a503ec43cab4ad9ddab02ff7a</guid>
+        <References>
+          <string>bc16422a503ec43cab4ad9ddab02ff7a</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>3757687d37f7d4c5e895fe56f03cbc84</guid>
+        <References>
+          <string>3757687d37f7d4c5e895fe56f03cbc84</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>e11a46337d7c55c42b0a2df4ae4ce720</guid>
+        <References>
+          <string>e11a46337d7c55c42b0a2df4ae4ce720</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>6955d13bf32414cc2810dca8756e1822</guid>
+        <References>
+          <string>6955d13bf32414cc2810dca8756e1822</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>b885779797d314b139d46e61cb01dda1</guid>
+        <References>
+          <string>1d21a36e63df14ea88e84f2e8112fe5e</string>
+          <string>b885779797d314b139d46e61cb01dda1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>e5e275498558a2542bb0465fa5e30d9b</guid>
+        <References>
+          <string>e5e275498558a2542bb0465fa5e30d9b</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>ec8e34c97ef2ee34395623fb7e4b0054</guid>
+        <References>
+          <string>ec8e34c97ef2ee34395623fb7e4b0054</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>3ae97e047e2e24a52ad27b209e246997</guid>
+        <References>
+          <string>3ae97e047e2e24a52ad27b209e246997</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>e075d96495a6241d6b57184b938b01ae</guid>
+        <References>
+          <string>e075d96495a6241d6b57184b938b01ae</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>be176cedc224641e68796ff57f1a6bff</guid>
+        <References>
+          <string>be176cedc224641e68796ff57f1a6bff</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>55a216a9340e44e71b856e389102c31e</guid>
+        <References>
+          <string>55a216a9340e44e71b856e389102c31e</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>07d40edf1e880482c844954892ef8780</guid>
+        <References>
+          <string>7e53ccac3f5284242b5cb9f49696e1d1</string>
+          <string>376d9eadc25804c32a9162454f4f508c</string>
+          <string>07d40edf1e880482c844954892ef8780</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>8b4e61c51941a46d1aac273472c814fd</guid>
+        <References>
+          <string>8b4e61c51941a46d1aac273472c814fd</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>9c8b546f746e74328ab6b8bba733af67</guid>
+        <References>
+          <string>f04f84c2241634cd6b3b30db8ac10ce4</string>
+          <string>c0d7bb19e6d7b400483d85741b495289</string>
+          <string>9c8b546f746e74328ab6b8bba733af67</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f27a84c9104434a008b15db8e2a8535b</guid>
+        <References>
+          <string>f27a84c9104434a008b15db8e2a8535b</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>9efb4922b09e32642bab2240a7c0aad5</guid>
+        <References>
+          <string>bd73b2f96a5824d41bb19592193e2398</string>
+          <string>376d9eadc25804c32a9162454f4f508c</string>
+          <string>9efb4922b09e32642bab2240a7c0aad5</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>fdcf63a3454d74ea5bdd46db131f3078</guid>
+        <References>
+          <string>fdcf63a3454d74ea5bdd46db131f3078</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>b126006da8178403dad4a53e28cb67f1</guid>
+        <References>
+          <string>b126006da8178403dad4a53e28cb67f1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>681a8afaadec3408687faa1ac36c335a</guid>
+        <References>
+          <string>681a8afaadec3408687faa1ac36c335a</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>dc1d4e75a3a73480e9803a2412d8df9a</guid>
+        <References>
+          <string>dc1d4e75a3a73480e9803a2412d8df9a</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>0fd2e011dd6a54ee58e4bd689665d781</guid>
+        <References>
+          <string>0fd2e011dd6a54ee58e4bd689665d781</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>54a6ce788f2e04938a8954f0c56f4ea7</guid>
+        <References>
+          <string>54a6ce788f2e04938a8954f0c56f4ea7</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>44bd4321dc3584aacb8ad94265dd52cb</guid>
+        <References>
+          <string>44bd4321dc3584aacb8ad94265dd52cb</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>bcf8af941d1fd418faab528548cf8940</guid>
+        <References>
+          <string>bcf8af941d1fd418faab528548cf8940</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>5fc7d4d480b4647fabe87d2d7aa3d8ed</guid>
+        <References>
+          <string>c67b86ee9b4ae4810af65db1a98e4c14</string>
+          <string>5fc7d4d480b4647fabe87d2d7aa3d8ed</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>42404bf7d14c342f69690c9961a7530d</guid>
+        <References>
+          <string>17e2e18f58d484292afebd263b8a9f67</string>
+          <string>e354c2e8eb72d4a85b1e1755d551190d</string>
+          <string>1b62624cd7eb6407694c536cbeddfbc9</string>
+          <string>ec8e34c97ef2ee34395623fb7e4b0054</string>
+          <string>42404bf7d14c342f69690c9961a7530d</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>461254dd80155e84faacd6da6311f071</guid>
+        <References>
+          <string>8ef95d64ca207f449917f64972ea5669</string>
+          <string>461254dd80155e84faacd6da6311f071</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>bbbe340798352459386a0059f0d14360</guid>
+        <References>
+          <string>bbbe340798352459386a0059f0d14360</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>505e7d9cb9fd14a45bdd00f6282fa528</guid>
+        <References>
+          <string>505e7d9cb9fd14a45bdd00f6282fa528</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>c2fc7b356ebe242deaefac9ceb95a7e1</guid>
+        <References>
+          <string>c2fc7b356ebe242deaefac9ceb95a7e1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>8d9f912a875a243d1b1bf3ccba362f81</guid>
+        <References>
+          <string>8d9f912a875a243d1b1bf3ccba362f81</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>da3a16ad7cb9b4c9db043669a8325166</guid>
+        <References>
+          <string>da3a16ad7cb9b4c9db043669a8325166</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>dd8ac01d2a75743e4917f3b94089a47f</guid>
+        <References>
+          <string>e50f4af9499e24ac9b08e30acc337ee9</string>
+          <string>dd8ac01d2a75743e4917f3b94089a47f</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>1c1a0c404c30d41359300f3a64ef0803</guid>
+        <References>
+          <string>1c1a0c404c30d41359300f3a64ef0803</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>3d77ab9630bb6462aace56d0510c7173</guid>
+        <References>
+          <string>6bb54eda499b94a83ad9b125f844f6a4</string>
+          <string>3d77ab9630bb6462aace56d0510c7173</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>b60c382fc506348a48402c25ba4fdacb</guid>
+        <References>
+          <string>b60c382fc506348a48402c25ba4fdacb</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>ef8ca0b19df694e2988c6019261d340e</guid>
+        <References>
+          <string>ef8ca0b19df694e2988c6019261d340e</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>27c2d3dfaa8c1467d9f11cad99393e62</guid>
+        <References>
+          <string>27c2d3dfaa8c1467d9f11cad99393e62</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>1d21a36e63df14ea88e84f2e8112fe5e</guid>
+        <References>
+          <string>e5e275498558a2542bb0465fa5e30d9b</string>
+          <string>1d21a36e63df14ea88e84f2e8112fe5e</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>7e53ccac3f5284242b5cb9f49696e1d1</guid>
+        <References>
+          <string>7e53ccac3f5284242b5cb9f49696e1d1</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>376d9eadc25804c32a9162454f4f508c</guid>
+        <References>
+          <string>376d9eadc25804c32a9162454f4f508c</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>f04f84c2241634cd6b3b30db8ac10ce4</guid>
+        <References>
+          <string>f04f84c2241634cd6b3b30db8ac10ce4</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>c0d7bb19e6d7b400483d85741b495289</guid>
+        <References>
+          <string>c0d7bb19e6d7b400483d85741b495289</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>bd73b2f96a5824d41bb19592193e2398</guid>
+        <References>
+          <string>bd73b2f96a5824d41bb19592193e2398</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>c67b86ee9b4ae4810af65db1a98e4c14</guid>
+        <References>
+          <string>505e7d9cb9fd14a45bdd00f6282fa528</string>
+          <string>c67b86ee9b4ae4810af65db1a98e4c14</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>17e2e18f58d484292afebd263b8a9f67</guid>
+        <References>
+          <string>17e2e18f58d484292afebd263b8a9f67</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>e354c2e8eb72d4a85b1e1755d551190d</guid>
+        <References>
+          <string>ae5ede82ebdd547ac8e7eb6fef4b626b</string>
+          <string>e354c2e8eb72d4a85b1e1755d551190d</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>1b62624cd7eb6407694c536cbeddfbc9</guid>
+        <References>
+          <string>1b62624cd7eb6407694c536cbeddfbc9</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>8ef95d64ca207f449917f64972ea5669</guid>
+        <References>
+          <string>8ef95d64ca207f449917f64972ea5669</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>6bb54eda499b94a83ad9b125f844f6a4</guid>
+        <References>
+          <string>6bb54eda499b94a83ad9b125f844f6a4</string>
+        </References>
+      </AssetReferenceInfo>
+      <AssetReferenceInfo>
+        <guid>ae5ede82ebdd547ac8e7eb6fef4b626b</guid>
+        <References>
+          <string>ec8e34c97ef2ee34395623fb7e4b0054</string>
+          <string>ae5ede82ebdd547ac8e7eb6fef4b626b</string>
+        </References>
+      </AssetReferenceInfo>
+    </AssetReferenceInfoList>
+  </ResConfig>
+</GPlayConfig>
